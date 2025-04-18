@@ -42,9 +42,11 @@ Scatter plots and regression models analyzed how Circulating Supply, Total Suppl
 ## Visualizations :
 ##### 1. Correlation Heatmap -
 Displayed using seaborn.heatmap() to visualize inter-relationships between cryptocurrencies.
+![Image](https://github.com/user-attachments/assets/1d0917aa-8e1f-494b-a7f2-35974164826a)
 
 ##### 2. Scatter Plots -
 Plotted Supply metrics vs. Price to show relationships and possible price drivers.
+
 
 
 ## Conclusion :
