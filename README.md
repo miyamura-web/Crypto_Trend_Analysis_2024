@@ -1,4 +1,4 @@
-# Crypto_Trend_Analysis-2024
+# Crypto_Trend_Analysis_2024
 
 ## Overview
 This analysis explores trends, volatility, growth patterns, and correlations among cryptocurrencies in 2024 using Python. The study leverages statistical modeling, data visualization, and exploratory data analysis techniques.
