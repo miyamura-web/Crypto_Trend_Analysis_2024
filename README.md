@@ -24,14 +24,14 @@ KAGGLE; a CSV file containing details of various cryptocurrencies was loaded usi
 • Normalized or scaled data for better comparison between assets.
 
 ## Insights Generation :-
-##### 1. Most and Least Volatile Cryptocurrencies -
+#### 1. Most and Least Volatile Cryptocurrencies -
 Volatility was calculated using the standard deviation of % changes over multiple periods (1h, 24h, 7d).
 Cryptocurrencies were ranked based on their volatility.
 
-##### 2. Correlation Analysis -
+#### 2. Correlation Analysis -
 A correlation matrix of percentage changes was computed to analyze how closely price movements are related across cryptocurrencies.
 
-##### 3. High-Growth Cryptocurrencies -
+#### 3. High-Growth Cryptocurrencies -
 Growth trends were assessed using changes in price from early 2024 to the latest available data.
 
 Top performers were identified based on their YTD % and 90d % gains.
@@ -40,11 +40,11 @@ Top performers were identified based on their YTD % and 90d % gains.
 Scatter plots and regression models analyzed how Circulating Supply, Total Supply, and Max Supply impact cryptocurrency prices.
 
 ## Visualizations :
-##### 1. Correlation Heatmap -
+#### 1. Correlation Heatmap -
 Displayed using seaborn.heatmap() to visualize inter-relationships between cryptocurrencies.
 ![Image](https://github.com/user-attachments/assets/1d0917aa-8e1f-494b-a7f2-35974164826a)
 
-##### 2. Scatter Plots -
+#### 2. Scatter Plots -
 Plotted Supply metrics vs. Price to show relationships and possible price drivers.
 ![Image](https://github.com/user-attachments/assets/aa06bd35-0f3d-492a-add7-c7c20ef96b63)
 
