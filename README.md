@@ -5,8 +5,7 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 
 ![Image](https://github.com/user-attachments/assets/4d81071e-dd4c-4c8f-bf60-54e6e43a6d42)
 
-##### Data Source :
-KAGGLE; a CSV file containing details of various cryptocurrencies was loaded using pandas. 
+##### Data Source : KAGGLE; a CSV file containing details of various cryptocurrencies was loaded using pandas. 
 
 ## Data Processing :
 ### Data Exploration :-
