@@ -1,51 +1,53 @@
 # Crypto-Trend-Analysis-2024
 
-### Overview
+## Overview
 This analysis explores trends, volatility, growth patterns, and correlations among cryptocurrencies in 2024 using Python. The study leverages statistical modeling, data visualization, and exploratory data analysis techniques.
 
-### Data Source
-KAGGLE CSV dataset containing details of various cryptocurrencies was loaded using pandas. 
+![Image](https://github.com/user-attachments/assets/4d81071e-dd4c-4c8f-bf60-54e6e43a6d42)
 
-### Data Analysis :
-#### Data Exploration :-
-Displayed the structure and header of the dataset.
-Computed summary statistics using describe() for a quick overview of the data distribution.
-Inspected missing values, outliers, and inconsistent entries.
+##### Data Source :
+KAGGLE; a CSV file containing details of various cryptocurrencies was loaded using pandas. 
 
-#### Data Cleaning
-Handled missing and non-numeric values in key columns.
-Converted relevant fields to numeric formats for analysis.
-Filtered out entries with low market capitalization or trading volume, if necessary.
+## Data Analysis :
+### Data Exploration :-
+• Displayed the structure and header of the dataset.
+• Computed summary statistics using describe() for a quick overview of the data distribution.
+• Inspected missing values, outliers, and inconsistent entries.
 
-#### Data Transformation
-Computed additional columns for analysis, including volatility and price growth metrics.
-Normalized or scaled data for better comparison between assets.
+### Data Cleaning :-
+• Handled missing and non-numeric values in key columns.
+• Converted relevant fields to numeric formats for analysis.
+• Filtered out entries with low market capitalization or trading volume, if necessary.
 
-### Insights Generation :
-#### 1. Most and Least Volatile Cryptocurrencies
+### Data Transformation :-
+• Computed additional columns for analysis, including volatility and price growth metrics.
+• Normalized or scaled data for better comparison between assets.
+
+## Insights Generation :-
+##### 1. Most and Least Volatile Cryptocurrencies -
 Volatility was calculated using the standard deviation of % changes over multiple periods (1h, 24h, 7d).
 Cryptocurrencies were ranked based on their volatility.
 
-#### 2. Correlation Analysis
+##### 2. Correlation Analysis -
 A correlation matrix of percentage changes was computed to analyze how closely price movements are related across cryptocurrencies.
 
-#### 3. High-Growth Cryptocurrencies
+##### 3. High-Growth Cryptocurrencies -
 Growth trends were assessed using changes in price from early 2024 to the latest available data.
 
 Top performers were identified based on their YTD % and 90d % gains.
 
-#### 4. Supply Dynamics and Price Relationship
+#### 4. Supply Dynamics and Price Relationship -
 Scatter plots and regression models analyzed how Circulating Supply, Total Supply, and Max Supply impact cryptocurrency prices.
 
-### Visualizations :
-#### 1. Correlation Heatmap
+## Visualizations :
+##### 1. Correlation Heatmap -
 Displayed using seaborn.heatmap() to visualize inter-relationships between cryptocurrencies.
 
-#### 2. Scatter Plots
+##### 2. Scatter Plots -
 Plotted Supply metrics vs. Price to show relationships and possible price drivers.
 
 
-### Conclusion
+## Conclusion :
 The Crypto Trend Analysis 2024 highlights key dynamics shaping the cryptocurrency market:
 
 1. Volatility remains a defining characteristic of cryptocurrencies, with certain assets exhibiting high short-term fluctuations. Identifying these can help investors align with their risk tolerance.
