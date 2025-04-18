@@ -8,7 +8,7 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 ##### Data Source :
 KAGGLE; a CSV file containing details of various cryptocurrencies was loaded using pandas. 
 
-## Data Analysis :
+## Data Processing :
 ### Data Exploration :-
 • Displayed the structure and header of the dataset.
 • Computed summary statistics using describe() for a quick overview of the data distribution.
