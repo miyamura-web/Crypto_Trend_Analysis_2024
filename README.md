@@ -46,6 +46,7 @@ Displayed using seaborn.heatmap() to visualize inter-relationships between crypt
 
 ##### 2. Scatter Plots -
 Plotted Supply metrics vs. Price to show relationships and possible price drivers.
+![Image](https://github.com/user-attachments/assets/aa06bd35-0f3d-492a-add7-c7c20ef96b63)
 
 
 
