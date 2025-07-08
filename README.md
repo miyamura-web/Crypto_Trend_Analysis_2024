@@ -30,6 +30,7 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 ## Insights Generation :-
 #### 1. Most and Least Volatile Cryptocurrencies -
 Volatility was calculated using the standard deviation of % changes over multiple periods (1h, 24h, 7d).
+
 Cryptocurrencies were ranked based on their volatility.
 
 #### 2. Correlation Analysis -
