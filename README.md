@@ -11,14 +11,15 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 ### Data Exploration :-
 • Displayed the structure and header of the dataset.
 
-
 • Computed summary statistics using describe() for a quick overview of the data distribution.
 
 • Inspected missing values, outliers, and inconsistent entries.
 
 ### Data Cleaning :-
 • Handled missing and non-numeric values in key columns.
+
 • Converted relevant fields to numeric formats for analysis.
+
 • Filtered out entries with low market capitalization or trading volume, if necessary.
 
 ### Data Transformation :-
