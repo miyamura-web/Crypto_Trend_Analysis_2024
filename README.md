@@ -13,6 +13,7 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 
 
 • Computed summary statistics using describe() for a quick overview of the data distribution.
+
 • Inspected missing values, outliers, and inconsistent entries.
 
 ### Data Cleaning :-
