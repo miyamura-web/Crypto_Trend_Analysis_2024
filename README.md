@@ -7,6 +7,8 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 
 ##### Data Source : KAGGLE; a CSV file containing details of various cryptocurrencies was loaded using pandas. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Data Processing :
 ### Data Exploration :-
 • Displayed the structure and header of the dataset.
@@ -26,7 +28,6 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 • Computed additional columns for analysis, including volatility and price growth metrics.
 
 • Normalized or scaled data for better comparison between assets.
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
