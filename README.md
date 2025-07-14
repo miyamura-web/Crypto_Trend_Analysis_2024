@@ -27,6 +27,9 @@ This analysis explores trends, volatility, growth patterns, and correlations amo
 
 • Normalized or scaled data for better comparison between assets.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Insights Generation :-
 #### 1. Most and Least Volatile Cryptocurrencies -
 Volatility was calculated using the standard deviation of % changes over multiple periods (1h, 24h, 7d).
