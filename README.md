@@ -48,6 +48,8 @@ Top performers were identified based on their YTD % and 90d % gains.
 #### 4. Supply Dynamics and Price Relationship -
 Scatter plots and regression models analyzed how Circulating Supply, Total Supply, and Max Supply impact cryptocurrency prices.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Visualizations :
 #### 1. Correlation Heatmap -
 Displayed using seaborn.heatmap() to visualize inter-relationships between cryptocurrencies.
