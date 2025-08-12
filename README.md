@@ -42,7 +42,7 @@ A correlation matrix of percentage changes was computed to analyze how closely p
 
 #### 3. High-Growth Cryptocurrencies -
 Growth trends were assessed using changes in price from early 2024 to the latest available data.
-
+<br>
 Top performers were identified based on their YTD % and 90d % gains.
 
 #### 4. Supply Dynamics and Price Relationship -
